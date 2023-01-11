@@ -1,8 +1,8 @@
 # Jarvis - Soapbox radio repository 
 
-## The Jarvis liquidsoap scripts and PHP helper files
+### The Jarvis liquidsoap scripts and PHP helper files
 
-## includes/config.inc.php sample 
+#### includes/config.inc.php sample 
 
 ```
 define('SHOUTCAST_HOST', 'http://host:port');           // url:port to your shoutcast server
